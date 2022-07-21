@@ -1,0 +1,11 @@
+C1	Lampa
+C2	Pico
+C3	Carretilla
+C4	Cemento
+C5	Martillo
+C6	Pegamento de tubos 
+C7	Barilejo
+C8	Disco de cortar 
+C9	Guantes 
+C10	Paleta de madera 
+C11	C1

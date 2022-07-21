@@ -1,0 +1,21 @@
+P1	Lampa truper 	Unidad	C1	M1	28.0	2.0	24.0	0.0
+P2	Lampa tramontina 	Unidad	C1	M2	26.0	2.0	14.0	0.0
+P3	Pico truper 	Unidad	C2	M3	32.0	3.0	27.0	0.0
+P4	Pico tramontina 	Unidad	C2	M4	29.0	3.0	30.0	0.0
+P5	Carretilla truper 	Unidad	C3	M5	195.0	15.0	13.0	0.0
+P6	Carretilla pretul 	Unidad	C3	M6	180.0	10.0	20.0	0.0
+P7	Cemento rumi	Unidad	C4	M7	20.5	0.5	70.0	0.0
+P8	Cemento wari	Unidad	C4	M8	21.0	0.5	40.0	0.0
+P9	Cemento sol 	Unidad	C4	M9	26.0	0.6	100.0	0.0
+P10	Cemento apu	Unidad	C4	M10	25.5	0.5	100.0	0.0
+P11	Martillo tramontina 	Unidad	C5	M11	24.0	2.0	6.0	0.0
+P12	Martillo uyustools 	Unidad	C5	M12	15.0	3.0	10.0	0.0
+P13	Pegamento Oatey-"grande"	Unidad	C6	M13	21.0	3.0	15.0	0.0
+P14	Pegamento nicoll-"mediano"	Unidad	C6	M14	10.0	3.0	13.0	0.0
+P15	Barilejo pretul 	Unidad	C7	M15	3.5	1.5	24.0	0.0
+P16	Barilejo truper	Unidad	C7	M16	3.5	1.5	30.0	0.0
+P17	Disco mad. uyustools nro:"7"	Unidad	C8	M17	15.0	3.0	15.0	0.0
+P18	Disco fie. uyustools nro:"7"	Unidad	C8	M18	6.0	3.0	13.0	0.0
+P19	Guantes	Par	C9	M19	2.5	2.5	10.0	0.0
+P20	Paleta mad. grande 	Unidad	C10	M20	40.0	5.0	10.0	0.0
+P21	Paleta mad. mediano 	Unidad	C10	M21	30.0	5.0	8.0	0.0

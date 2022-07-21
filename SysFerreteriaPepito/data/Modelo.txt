@@ -1,0 +1,21 @@
+M1	Lampa truper
+M2	Lampa tramontina 
+M3	Pico truper 
+M4	Pico tramontina 
+M5	Carretilla truper 
+M6	Carretilla pretul
+M7	Cemento rumi
+M8	Cemento wari
+M9	Cemento sol
+M10	Cemento apu
+M11	Martillo tramontina 
+M12	Martillo uyustools
+M13	Pegamento oatey-"grande"
+M14	Pegamento nicoll-"mediano"
+M15	Barilejo pretul
+M16	Barilejo truper 
+M17	Disco mad. uyustools nro:"7"
+M18	Disco fie. Uyustools nro:"7"
+M19	Guantes
+M20	Paleta mad. grande
+M21	Paleta mad. mediano
